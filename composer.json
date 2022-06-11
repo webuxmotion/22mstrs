@@ -1,0 +1,6 @@
+{
+    "name": "webuxmotion/22mstrs",
+    "require": {
+        "tonephp/tonephp": "^0.1.10"
+    }
+}
