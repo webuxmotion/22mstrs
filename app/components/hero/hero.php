@@ -1,4 +1,9 @@
 <div class="hero">
+  <div class="hero__image">
+    <?=icon('poster')?>
+    <?=icon('poster')?>
+  </div>
+  
   <h1>22MSTRS</h1>
 
   <div class="hero__text">
